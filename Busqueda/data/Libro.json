@@ -1,0 +1,85 @@
+{
+  "lista": {
+    "cabecera": {
+      "dato": {
+        "isbn": "253698689566869",
+        "titulo": "Teoria de la programación",
+        "autor": "Wilman Chamba",
+        "anio": "2013"
+      },
+      "siguiente": {
+        "dato": {
+          "isbn": "135784798658698",
+          "titulo": "La culpa es de la vaca",
+          "autor": "Elias Hernandez",
+          "anio": "1958"
+        },
+        "siguiente": {
+          "dato": {
+            "isbn": "598741036985214",
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "anio": "1949"
+          },
+          "siguiente": {
+            "dato": {
+              "isbn": "302158741365897",
+              "titulo": "Cien años de soledad",
+              "autor": "Gabriel García Márquez",
+              "anio": "1967"
+            },
+            "siguiente": {
+              "dato": {
+                "isbn": "987456321478569",
+                "titulo": "Matar a un ruiseñor",
+                "autor": "Harper Lee",
+                "anio": "1960"
+              },
+              "siguiente": {
+                "dato": {
+                  "isbn": "654897213654785",
+                  "titulo": "El Gran Gatsby",
+                  "autor": "Scott Fitzgerald",
+                  "anio": "1925"
+                },
+                "siguiente": {
+                  "dato": {
+                    "isbn": "123698745215487",
+                    "titulo": "Orgullo y prejuicio",
+                    "autor": "Jane Austen",
+                    "anio": "1813"
+                  },
+                  "siguiente": {
+                    "dato": {
+                      "isbn": "456987321654987",
+                      "titulo": "En busca del tiempo perdido",
+                      "autor": "Marcel Proust",
+                      "anio": "1913"
+                    },
+                    "siguiente": {
+                      "dato": {
+                        "isbn": "741236589745896",
+                        "titulo": "Don Quijote de la Mancha",
+                        "autor": "Miguel de Cervantes Saavedra",
+                        "anio": "1605"
+                      },
+                      "siguiente": {
+                        "dato": {
+                          "isbn": "369875412369874",
+                          "titulo": "Ulises",
+                          "autor": "James Joyce",
+                          "anio": "1922"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tamanio": 10
+  }
+}

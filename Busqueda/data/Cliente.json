@@ -1,0 +1,93 @@
+{
+  "lista": {
+    "cabecera": {
+      "dato": {
+        "cedula": "1105986689",
+        "nombre": "Juan",
+        "apellido": "Fernandez",
+        "telefono": "0998635329"
+      },
+      "siguiente": {
+        "dato": {
+          "cedula": "0785448698",
+          "nombre": "Javier",
+          "apellido": "Gonzales",
+          "telefono": "0998778757"
+        },
+        "siguiente": {
+          "dato": {
+            "cedula": "1105986898",
+            "nombre": "Daniel",
+            "apellido": "Zambrano",
+            "telefono": "0986779858"
+          },
+          "siguiente": {
+            "dato": {
+              "cedula": "0798685589",
+              "nombre": "Mateo",
+              "apellido": "Zambrano",
+              "telefono": "0988683112"
+            },
+            "siguiente": {
+              "dato": {
+                "cedula": "0788689533",
+                "nombre": "Diego",
+                "apellido": "Alvarez",
+                "telefono": "0986857785"
+              },
+              "siguiente": {
+                "dato": {
+                  "cedula": "1708655598",
+                  "nombre": "Melanie",
+                  "apellido": "Torres",
+                  "telefono": "0956883256"
+                },
+                "siguiente": {
+                  "dato": {
+                    "cedula": "1685988363",
+                    "nombre": "Marianne",
+                    "apellido": "Ayala",
+                    "telefono": "0968335324"
+                  },
+                  "siguiente": {
+                    "dato": {
+                      "cedula": "1265338966",
+                      "nombre": "Michael",
+                      "apellido": "Moran",
+                      "telefono": "0685997825"
+                    },
+                    "siguiente": {
+                      "dato": {
+                        "cedula": "1526332653",
+                        "nombre": "Jorge",
+                        "apellido": "Paucar",
+                        "telefono": "096855893"
+                      },
+                      "siguiente": {
+                        "dato": {
+                          "cedula": "0752886898",
+                          "nombre": "Jordy",
+                          "apellido": "Navarrete",
+                          "telefono": "0986553284"
+                        },
+                        "siguiente": {
+                          "dato": {
+                            "cedula": "1105630709",
+                            "nombre": "Luis ",
+                            "apellido": "Hidalgo",
+                            "telefono": "0980678647"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tamanio": 11
+  }
+}

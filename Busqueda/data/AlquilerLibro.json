@@ -1,0 +1,265 @@
+{
+  "lista": {
+    "cabecera": {
+      "dato": {
+        "fechaInicio": {
+          "year": 2023,
+          "month": 6,
+          "day": 28
+        },
+        "fechaFin": {
+          "year": 2023,
+          "month": 7,
+          "day": 13
+        },
+        "cliente": {
+          "cedula": "1105986689",
+          "nombre": "Juan",
+          "apellido": "Fernandez",
+          "telefono": "0998635329"
+        },
+        "libro": {
+          "isbn": "253698689566869",
+          "titulo": "Teoria de la programación",
+          "autor": "Wilman Chamba",
+          "anio": "2013"
+        }
+      },
+      "siguiente": {
+        "dato": {
+          "fechaInicio": {
+            "year": 2023,
+            "month": 6,
+            "day": 28
+          },
+          "fechaFin": {
+            "year": 2023,
+            "month": 7,
+            "day": 13
+          },
+          "cliente": {
+            "cedula": "1708655598",
+            "nombre": "Melanie",
+            "apellido": "Torres",
+            "telefono": "0956883256"
+          },
+          "libro": {
+            "isbn": "598741036985214",
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "anio": "1949"
+          }
+        },
+        "siguiente": {
+          "dato": {
+            "fechaInicio": {
+              "year": 2023,
+              "month": 6,
+              "day": 28
+            },
+            "fechaFin": {
+              "year": 2023,
+              "month": 7,
+              "day": 13
+            },
+            "cliente": {
+              "cedula": "1265338966",
+              "nombre": "Michael",
+              "apellido": "Moran",
+              "telefono": "0685997825"
+            },
+            "libro": {
+              "isbn": "456987321654987",
+              "titulo": "En busca del tiempo perdido",
+              "autor": "Marcel Proust",
+              "anio": "1913"
+            }
+          },
+          "siguiente": {
+            "dato": {
+              "fechaInicio": {
+                "year": 2023,
+                "month": 6,
+                "day": 28
+              },
+              "fechaFin": {
+                "year": 2023,
+                "month": 7,
+                "day": 13
+              },
+              "cliente": {
+                "cedula": "1105986898",
+                "nombre": "Daniel",
+                "apellido": "Zambrano",
+                "telefono": "0986779858"
+              },
+              "libro": {
+                "isbn": "369875412369874",
+                "titulo": "Ulises",
+                "autor": "James Joyce",
+                "anio": "1922"
+              }
+            },
+            "siguiente": {
+              "dato": {
+                "fechaInicio": {
+                  "year": 2023,
+                  "month": 6,
+                  "day": 28
+                },
+                "fechaFin": {
+                  "year": 2023,
+                  "month": 7,
+                  "day": 13
+                },
+                "cliente": {
+                  "cedula": "0752886898",
+                  "nombre": "Jordy",
+                  "apellido": "Navarrete",
+                  "telefono": "0986553284"
+                },
+                "libro": {
+                  "isbn": "302158741365897",
+                  "titulo": "Cien años de soledad",
+                  "autor": "Gabriel García Márquez",
+                  "anio": "1967"
+                }
+              },
+              "siguiente": {
+                "dato": {
+                  "fechaInicio": {
+                    "year": 2023,
+                    "month": 6,
+                    "day": 28
+                  },
+                  "fechaFin": {
+                    "year": 2023,
+                    "month": 7,
+                    "day": 13
+                  },
+                  "cliente": {
+                    "cedula": "0788689533",
+                    "nombre": "Diego",
+                    "apellido": "Alvarez",
+                    "telefono": "0986857785"
+                  },
+                  "libro": {
+                    "isbn": "456987321654987",
+                    "titulo": "En busca del tiempo perdido",
+                    "autor": "Marcel Proust",
+                    "anio": "1913"
+                  }
+                },
+                "siguiente": {
+                  "dato": {
+                    "fechaInicio": {
+                      "year": 2023,
+                      "month": 6,
+                      "day": 28
+                    },
+                    "fechaFin": {
+                      "year": 2023,
+                      "month": 7,
+                      "day": 13
+                    },
+                    "cliente": {
+                      "cedula": "1685988363",
+                      "nombre": "Marianne",
+                      "apellido": "Ayala",
+                      "telefono": "0968335324"
+                    },
+                    "libro": {
+                      "isbn": "654897213654785",
+                      "titulo": "El Gran Gatsby",
+                      "autor": "Scott Fitzgerald",
+                      "anio": "1925"
+                    }
+                  },
+                  "siguiente": {
+                    "dato": {
+                      "fechaInicio": {
+                        "year": 2023,
+                        "month": 6,
+                        "day": 28
+                      },
+                      "fechaFin": {
+                        "year": 2023,
+                        "month": 7,
+                        "day": 13
+                      },
+                      "cliente": {
+                        "cedula": "1105986898",
+                        "nombre": "Daniel",
+                        "apellido": "Zambrano",
+                        "telefono": "0986779858"
+                      },
+                      "libro": {
+                        "isbn": "741236589745896",
+                        "titulo": "Don Quijote de la Mancha",
+                        "autor": "Miguel de Cervantes Saavedra",
+                        "anio": "1605"
+                      }
+                    },
+                    "siguiente": {
+                      "dato": {
+                        "fechaInicio": {
+                          "year": 2023,
+                          "month": 6,
+                          "day": 30
+                        },
+                        "fechaFin": {
+                          "year": 2023,
+                          "month": 7,
+                          "day": 15
+                        },
+                        "cliente": {
+                          "cedula": "0788689533",
+                          "nombre": "Diego",
+                          "apellido": "Alvarez",
+                          "telefono": "0986857785"
+                        },
+                        "libro": {
+                          "isbn": "123698745215487",
+                          "titulo": "Orgullo y prejuicio",
+                          "autor": "Jane Austen",
+                          "anio": "1813"
+                        }
+                      },
+                      "siguiente": {
+                        "dato": {
+                          "fechaInicio": {
+                            "year": 2023,
+                            "month": 7,
+                            "day": 1
+                          },
+                          "fechaFin": {
+                            "year": 2023,
+                            "month": 7,
+                            "day": 16
+                          },
+                          "cliente": {
+                            "cedula": "1265338966",
+                            "nombre": "Michael",
+                            "apellido": "Moran",
+                            "telefono": "0685997825"
+                          },
+                          "libro": {
+                            "isbn": "456987321654987",
+                            "titulo": "En busca del tiempo perdido",
+                            "autor": "Marcel Proust",
+                            "anio": "1913"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "tamanio": 10
+  }
+}
