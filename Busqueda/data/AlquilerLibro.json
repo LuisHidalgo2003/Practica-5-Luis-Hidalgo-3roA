@@ -249,6 +249,84 @@
                             "autor": "Marcel Proust",
                             "anio": "1913"
                           }
+                        },
+                        "siguiente": {
+                          "dato": {
+                            "fechaInicio": {
+                              "year": 2023,
+                              "month": 7,
+                              "day": 1
+                            },
+                            "fechaFin": {
+                              "year": 2023,
+                              "month": 7,
+                              "day": 16
+                            },
+                            "cliente": {
+                              "cedula": "0752886898",
+                              "nombre": "Jordy",
+                              "apellido": "Navarrete",
+                              "telefono": "0986553284"
+                            },
+                            "libro": {
+                              "isbn": "302158741365897",
+                              "titulo": "Cien años de soledad",
+                              "autor": "Gabriel García Márquez",
+                              "anio": "1967"
+                            }
+                          },
+                          "siguiente": {
+                            "dato": {
+                              "fechaInicio": {
+                                "year": 2023,
+                                "month": 7,
+                                "day": 1
+                              },
+                              "fechaFin": {
+                                "year": 2023,
+                                "month": 7,
+                                "day": 16
+                              },
+                              "cliente": {
+                                "cedula": "1265338966",
+                                "nombre": "Michael",
+                                "apellido": "Moran",
+                                "telefono": "0685997825"
+                              },
+                              "libro": {
+                                "isbn": "302158741365897",
+                                "titulo": "Cien años de soledad",
+                                "autor": "Gabriel García Márquez",
+                                "anio": "1967"
+                              }
+                            },
+                            "siguiente": {
+                              "dato": {
+                                "fechaInicio": {
+                                  "year": 2023,
+                                  "month": 7,
+                                  "day": 1
+                                },
+                                "fechaFin": {
+                                  "year": 2023,
+                                  "month": 7,
+                                  "day": 16
+                                },
+                                "cliente": {
+                                  "cedula": "0798685589",
+                                  "nombre": "Mateo",
+                                  "apellido": "Zambrano",
+                                  "telefono": "0988683112"
+                                },
+                                "libro": {
+                                  "isbn": "123698745215487",
+                                  "titulo": "Orgullo y prejuicio",
+                                  "autor": "Jane Austen",
+                                  "anio": "1813"
+                                }
+                              }
+                            }
+                          }
                         }
                       }
                     }
@@ -260,6 +338,6 @@
         }
       }
     },
-    "tamanio": 10
+    "tamanio": 13
   }
 }

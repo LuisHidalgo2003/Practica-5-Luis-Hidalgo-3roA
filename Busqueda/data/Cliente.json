@@ -76,6 +76,14 @@
                             "nombre": "Luis ",
                             "apellido": "Hidalgo",
                             "telefono": "0980678647"
+                          },
+                          "siguiente": {
+                            "dato": {
+                              "cedula": "110573070",
+                              "nombre": "Juan ",
+                              "apellido": "Santos",
+                              "telefono": "0980688647"
+                            }
                           }
                         }
                       }
@@ -88,6 +96,6 @@
         }
       }
     },
-    "tamanio": 11
+    "tamanio": 12
   }
 }
