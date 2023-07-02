@@ -2,6 +2,15 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/home/peluche/Documentos/Practica%205-Luis%20Hidalgo-3roA/Busqueda/src/busqueda/controlador/Binaria/BusquedaBinaria.java</file>
+            <file>file:/home/peluche/Documentos/Practica%205-Luis%20Hidalgo-3roA/Busqueda/src/busqueda/modelo/Cliente.java</file>
+            <file>file:/home/peluche/Documentos/Practica%205-Luis%20Hidalgo-3roA/Busqueda/src/busqueda/controlador/LinealBinaria/BusquedaLinealBinaria.java</file>
+            <file>file:/home/peluche/Documentos/Practica%205-Luis%20Hidalgo-3roA/Busqueda/src/vista/AlquilarLibroDialog.java</file>
+            <file>file:/home/peluche/Documentos/Practica%205-Luis%20Hidalgo-3roA/Busqueda/src/busqueda/modelo/AlquilerLibro.java</file>
+            <file>file:/home/peluche/Documentos/Practica%205-Luis%20Hidalgo-3roA/Busqueda/src/busqueda/Busqueda.java</file>
+            <file>file:/home/peluche/Documentos/Practica%205-Luis%20Hidalgo-3roA/Busqueda/src/busqueda/modelo/Libro.java</file>
+            <file>file:/home/peluche/Documentos/Practica%205-Luis%20Hidalgo-3roA/Busqueda/src/busqueda/controlador/Lineal/BusquedaLineal.java</file>
+        </group>
     </open-files>
 </project-private>

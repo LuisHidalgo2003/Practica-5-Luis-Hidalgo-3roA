@@ -258,6 +258,7 @@ public class AlquilarLibroDialog extends javax.swing.JDialog {
 
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
+        jLabel1.setFont(new java.awt.Font("Z003", 1, 15)); // NOI18N
         jLabel1.setText("ALQUILAR LIBRO");
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(370, 10, -1, -1));
 
@@ -291,29 +292,32 @@ public class AlquilarLibroDialog extends javax.swing.JDialog {
 
         jPanel1.add(jScrollPane2, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 270, 370, 300));
 
+        btnAlquilar.setFont(new java.awt.Font("URW Gothic", 1, 15)); // NOI18N
         btnAlquilar.setText("ALQUILAR");
         btnAlquilar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnAlquilarActionPerformed(evt);
             }
         });
-        jPanel1.add(btnAlquilar, new org.netbeans.lib.awtextra.AbsoluteConstraints(1160, 630, -1, -1));
+        jPanel1.add(btnAlquilar, new org.netbeans.lib.awtextra.AbsoluteConstraints(1160, 630, 100, -1));
 
+        btnAggCliente.setFont(new java.awt.Font("URW Gothic", 1, 15)); // NOI18N
         btnAggCliente.setText("AGREGAR CLIENTE");
         btnAggCliente.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnAggClienteActionPerformed(evt);
             }
         });
-        jPanel1.add(btnAggCliente, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 580, -1, -1));
+        jPanel1.add(btnAggCliente, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 580, 170, 40));
 
+        btnAggLibro.setFont(new java.awt.Font("URW Gothic", 1, 15)); // NOI18N
         btnAggLibro.setText("AGREGAR LIBRO");
         btnAggLibro.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnAggLibroActionPerformed(evt);
             }
         });
-        jPanel1.add(btnAggLibro, new org.netbeans.lib.awtextra.AbsoluteConstraints(700, 580, -1, -1));
+        jPanel1.add(btnAggLibro, new org.netbeans.lib.awtextra.AbsoluteConstraints(700, 580, 140, 40));
 
         jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder("Buscar Clientes"));
         jPanel2.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -368,23 +372,25 @@ public class AlquilarLibroDialog extends javax.swing.JDialog {
         rbtnLinealBinaria.setText("Lineal Binaria");
         jPanel4.add(rbtnLinealBinaria, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 30, -1, -1));
 
+        btnBuscar.setFont(new java.awt.Font("URW Gothic", 1, 15)); // NOI18N
         btnBuscar.setText("BUSCAR");
         btnBuscar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnBuscarActionPerformed(evt);
             }
         });
-        jPanel4.add(btnBuscar, new org.netbeans.lib.awtextra.AbsoluteConstraints(700, 30, -1, -1));
+        jPanel4.add(btnBuscar, new org.netbeans.lib.awtextra.AbsoluteConstraints(658, 19, 110, 40));
 
         jPanel1.add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 180, 830, 80));
 
+        btnActualizar.setFont(new java.awt.Font("Z003", 1, 15)); // NOI18N
         btnActualizar.setText("ACTUALIZAR");
         btnActualizar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnActualizarActionPerformed(evt);
             }
         });
-        jPanel1.add(btnActualizar, new org.netbeans.lib.awtextra.AbsoluteConstraints(370, 590, -1, -1));
+        jPanel1.add(btnActualizar, new org.netbeans.lib.awtextra.AbsoluteConstraints(370, 590, 120, 40));
 
         jLabel4.setText("Nota: sólo se prestarán libros por 15 dias");
         jPanel1.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(880, 640, -1, -1));
